@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card View</string>
+    <string name="forest_description"> The forest and the outdoors are a place for adventure, learning, fun, and discovery! There are so many possibilities. It might be tough deciding where to begin. Check out these games and activities, which can help get you going.</string>
+    <string name="action_share">Share</string>
+    <string name="action_explore">Explore</string>
+    <string name="fun_in_the_forest">FUN IN THE FOREST</string>
+</resources>
